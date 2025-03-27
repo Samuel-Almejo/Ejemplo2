@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Holaaaa estoy aprendiendo GIT
 Hola, javascript
+=======
+Que pedo cachorros como estan 
+>>>>>>> 92e58181c0d0dcf29f3aaa16420185eb884a7e59
